@@ -1,0 +1,4 @@
+# Placeholder for now, though git.foss will be our main about page, and the first page to go live via this system,
+# This file will contain the entire list of .foss and .oss sits and their IP address.
+127.0.0.1 git.foss
+127.0.0.1 www.git.foss
